@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Contact from './pages/Contact'
 import Project from './pages/Projects'
 import About from './pages/About'
+import "./index.css"
 
 
 
