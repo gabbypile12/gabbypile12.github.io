@@ -7,7 +7,6 @@ import About from './pages/About'
 import "./index.css"
 
 
-
 function App() {
 
   return (

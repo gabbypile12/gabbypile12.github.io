@@ -5,9 +5,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    colors:{
+      grey:'#696969'
+
+    },
     extend: {
       fontFamily: {
-        sedgwick: ["Permanent Marker", "serif"]
+        graffiti: ['Graffiti font', 'sans-serif'],
+        ten: ['Tengah Wengi','sans-serif'],
+        robinez: ['Robienz', 'sans-serif']
      }
     },
   },
