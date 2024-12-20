@@ -6,7 +6,9 @@ export default {
   ],
   theme: {
     colors:{
-      grey:'#696969'
+      grey:'#696969',
+      red: '#C31E24',
+      purple:'#730077'
 
     },
     extend: {

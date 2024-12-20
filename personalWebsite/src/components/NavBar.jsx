@@ -21,7 +21,6 @@ function NavBar(){
         if(width >= 1024){
             setMenuOpen(false);
         }
-        // alert(isMenuOpen);
         return () => window.removeEventListener('resize', handleResize); 
        
         //optional return function
@@ -37,7 +36,6 @@ function NavBar(){
                     <li className = "inline-block px-3 font-robinez  text-2xl"> <Link to = "/about">About</Link></li>
                     <li className = "inline-block px-3 font-robinez  text-2xl"> <Link to = "/projects">Projects</Link></li>
                     <li className = "inline-block px-3 font-robinez  text-2xl"><Link to = "/contact">Contact</Link></li>
-                    {/* <li className = "inline-block px-3 font-robinez  text-2xl"><p> Current Window With: {width}</p></li> */}
                 </ul>
                 <div className = "block lg:hidden" onClick = {menu}><FontAwesomeIcon icon={faBars} /></div> 
                
