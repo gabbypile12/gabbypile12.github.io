@@ -3,7 +3,11 @@ function Projects(){
     return(
         <div>
             <NavBar></NavBar>
-            <h2>Projects</h2>
+            <div className = "min h-screen bg-darkred">
+                <h2>Projects</h2>
+            </div>
+            
+
         </div>
     );
 }

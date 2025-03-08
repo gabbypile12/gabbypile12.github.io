@@ -1,6 +1,10 @@
 @import url('https://fonts.cdnfonts.com/css/graffiti-font');
 @import url('https://fonts.cdnfonts.com/css/tengah-wengi');
 @import url('https://fonts.cdnfonts.com/css/robienz');
+@import url('https://fonts.googleapis.com/css2?family=Bubbler+One&family=Neonderthaw&display=swap');
+@import url('https://fonts.cdnfonts.com/css/farmers-work');
+@import url('https://fonts.cdnfonts.com/css/basramle');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
