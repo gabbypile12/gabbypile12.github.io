@@ -2,7 +2,7 @@
   "name": "personalwebsite",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gabbypile12.github.io/gabriellePileWebsite",
+  "homepage": "https://gabbypile12.github.io/gabbypile12.github.io",
   "type": "module",
   "scripts": {
   "predeploy": "npm run build",
