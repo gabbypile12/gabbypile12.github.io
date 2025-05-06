@@ -7,6 +7,7 @@ import { faBars } from '@fortawesome/free-solid-svg-icons'
 function NavBar(){
 
     const [isMenuOpen, setMenuOpen] = useState(false);
+    
     function menu(){
         setMenuOpen(!isMenuOpen);
     }
